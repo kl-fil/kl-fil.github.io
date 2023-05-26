@@ -2,96 +2,72 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Klara Filek
     - name: Date of Birth
-      value: 14th March 1879
+      value: 16th Nov 1992
     - name: Languages
-      value: English, German
+      value: Croatian, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Zagreb, Zagreb, Croatia
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis -  Diversity of diatom and bacterial communities associated with loggerhead sea turtles (<i>Caretta caretta</i>)
+    - title: Master of Science
+      institution: Uppsala University, Uppsala, Sweden
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis - Contact-dependent growth inhibition in <i>Escherichia coli</i> EC93
+    - title: Bachelor of Science
+      institution: University of Zagreb, Zagreb, Croatia
+      year: 2015
+      description:
+        - Thesis - Connection between inflammation and depression
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: University of Zagreb, Bosak lab, Croatia
+      year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Analyzed microbial communities of sea turtles
+        - Taught undergraduate courses and mentored master students
+        - Obtained funds for research training
+        - Communicated research (scientific articles and general public)
+    
+    - title: Master student researcher
+      institution: Uppsala University, Koskiniemi lab, Sweden
+      year: 2017-2018
       description:
-        - Description 1.
-        - Description 2.
+        - Molecular cloning and competition experiments with <i>E. coli</i>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Team lead
+      institution: Biology Students Association, Zagreb
+      year: 2014-2015
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Microbiology section
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - EU TalentOn 2nd prize in "Restore our Oceans and Waters" Mission Arena (EU Comission) 
+        - Honorable mention in "Discover the Microverse" scientific image competition (NCCR Microbiomes, Switzerland)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+    - year: 2021
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Best scientific photo award in "fieldworks" category (Croatian Science Foundation)
+        - Poster award 1st place at the International Diatom Symposium
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2019
+      items: 
+        - Poster award 2st place at the Molecular Life of Diatoms 5
+
+    - year: 2014
+      items: 
+        - Special Rector's award for Reearch-educational project "Grabovača 2014."
