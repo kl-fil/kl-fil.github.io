@@ -1,80 +1,26 @@
 ---
 layout: page
 title: Epizoic diatoms
-description: under construction
-img: assets/img/sem.jpeg
+description: The peculiar microalgae
+img: assets/img/sem1.jpeg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Besides investigating microbial communities of Adriatic loggerheads I also investigated the <b>diatom components</b> of those communities. <b>Diatoms are microalgae with silica shells</b>, omnipresent in aquatic environments and <b>crucial for oxygenproduction and CO<sub>2</sub> sequestration</b> on Earth. Interestingly, <b>some of them inhabit only sea turtles</b> (as far as we know). Today we also know diatoms <b>interact with bacteria</b>, sometimes in positive ways and sometimes not so much. Within TurtleBIOME I had the unique opportunity to look  into both epizoic diatoms and their bacteria.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<b>From carapace and skin samples</b> of turtles (collected by gentle brushing) <b>I isolated numerous diatom cells</b> and established protocols for their growth in monocultures. We found myriad of potentital <b>new diatom taxa</b>, some of which were descirbed recently in [Majewska <i>et al.</i> (2020)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jpy.13086). Some of the epizoic diatoms I successfully isolated and cultures were analyzed as a part of a much larger dataset to get <b>insight into evolution of diatoms and their hosts</b> by [Ashworth, Majewska <i>et al.</i> (2021)](https://www.nature.com/articles/s41598-022-19064-0). We discovered that some diatom species are faithful to their host while other turtle diatoms were not as faithful and could be found across different host populations.
 
+I also took the opportunity to examine and isolate <b>bacteria associated with my diatoms</b> in culture. Since those diatoms were carefully washed several times before establishing them in culture, we anticipated only bacteria close to the diatom could get transferred as well. Indeed, <b>diatoms had much lower richness of bacteria in culture compared to their source environments</b> (loggerhead carapace and skin). Additionally, we discovered that bacteria that are rare on the surface of the turtles loved growing with diatoms. Also some of them are new to us, so similarly to many of novel diatom taxa we think our turtle host is carrying many <b>novel bacterial taxa</b> as well. These findings are a part of the [Filek <i>et al.</i>> (2021)](https://academic.oup.com/femsec/article-abstract/98/10/fiac104/6693935?redirectedFrom=fulltext) publication.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sem.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Falsely colored scanning electron microscopy image on the turtle carapace with diatom <i>Poulinea lepidochelicola</i> in yellow, the diatom stalks for attachment in beige and bacteria in purple.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+Currently, I am analyzing the data collected from <b>diatom co-culturing experiment</b>. I cultivated <i>Achnanthes elongata</i> (a turtle-associoated diatom) together with diatoms considered to be opportunistic and not specific to turtles. The co-cultures were grown during three weeks and imaged every other day by a multi-mode plate reader (16 images per well, 3x wells per condition). From images I extracted information on the number of diatoms and their size and orientation (horizontal or vertical). From there I hope to get some ideas on diatom behavior that could tell us more about the epizoic diatom lifestyle preferences. This work is planned to be public during 2024.
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}

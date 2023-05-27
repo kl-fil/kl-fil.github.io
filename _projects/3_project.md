@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Presenting my work
-description: under construction
+description:  All about conferences
 img: assets/img/present.jpeg
 importance: 3
 category: work
 ---
 
-During my PhD studies I had many opportunities to introduce turtle-associated microbes to diverse scientific minds. Here you can find the posters and slides connected to each event.
+During my PhD studies I had many opportunities to introduce turtle-associated microbes to diverse scientific minds. Here you can find the posters, slides and photos connected to some of the events.
 
 <h3>18th International Symposium on Microbial Ecology (ISME18)</h3>
 August 2022 - this symposium was held in Lausanne, Switzerland with more than 2000 attendees.
@@ -15,26 +15,39 @@ I presented a poster: Filek et al. "[More than just hitchhikers: a survey of bac
 
 <h3>FEMS Conference on Microbiology</h3>
 June 2022 - FEMS Conference on Microbiology was held in Belgrade, Serbia and I gave a talk on my work performed during my stay at Ghent University (diatom-associated microbes and co-cultures).
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fems-1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fems-2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fems-3.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles. </div>
-
+    Left: me excited for the conference; middle: The Victor monument; right: the amazing sunset over Sava and Danube in Belgrade.
+</div>
 
 <h3>7th Croatian Crongress of Microbiology</h3>
 May 2022 - 7th Croatian Crongress of Microbiology was held in Sv. Martin na Muri, Croatia. I presented more about [bacterial communities associated with loggerheads](https://www.researchgate.net/publication/360783159_Microbiota_of_marine_reptiles_it_is_about_more_than_just_the_gastrointestinal_tract).
 
 <h3>9th Conference of Mikrobiokosmos</h3>
 2021 December - 9th Conference of Mikrobiokosmos was held in Athens, Greece, I gave a [talk on endozoic bacterial communities in oral cavities and cloaca](https://www.researchgate.net/publication/357179700_Loggerhead_sea_turtles_Caretta_caretta_and_their_microbes_characterizing_oral_and_cloacal_microbial_communities) of loggerhead sea turtles.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mkosmos-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mkosmos-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: me presenting; right: my colleague Lucija and I before the poster fell on us due to strong Greek winds.
+</div>
 
 <h3>Online International Diatom Symposium</h3>
 2021 August - International Diatom Symposium was supposed to be held in Yamagata, Japan but alas the pandemic has stricken. Here I presented a poster on [diatom co-cultivation](https://www.researchgate.net/publication/358277715_Loggerhead_sea_turtle-associated_epizoic_vs_non-epizoic_diatoms_isolation_identification_and_co-cultivation_experiments) (as at MLD6) but here I won a 1st prize for my work..
@@ -47,4 +60,15 @@ May 2022 - 7th Croatian Crongress of Microbiology was held in Sv. Martin na Muri
 
 <h3>The Molecular Life of Diatoms 5</h3>
 2019 July - This was my first congress/meeting (Norwich, UK) where I got to present some of the results in [epizoic diatom phylogeny](https://www.researchgate.net/publication/352907159_A_polyphasic_approach_for_identification_of_epibiotic_diatoms_associated_with_loggerhead_sea_turtles_in_the_Adriatic_Sea). Here I was awarded a 2nd prize for my poster!
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mld5-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mld5-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mld5-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">Left: documenting the poster and award; middle: one of the odlest pubs in Norwich; right: Natural History Museum in London.</div>

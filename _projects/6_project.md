@@ -1,80 +1,26 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title:  interests and ideas
+description: To summarize...
+img: assets/img/edu6.jpg
 importance: 4
-category: fun
+category: other
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Ever since reading [Arthur C. Clarke's and Gentry Lee's <i>Rama series</i>](https://en.wikipedia.org/wiki/Rendezvous_with_Rama#Books_in_the_series) (I have a soft spot for sci-fi, what can I say) I have been obsessed by the idea of <b>building a sustainable society</b> with tools given to us <b>by biology/biotech</b>. Microbes have always been big players on Earth and I believe we are in the Golder Era of harnessing their power and using it for good.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Driven by such ideas I applied to the first [EU TalentOn](https://talenton.eu/) in 2022 which <b>gethered young scientist</b> and provided a platform to network and produce ideas on how to <b>solve loal/global challenges</b> (as a part of EU Missions for 2030). There my team and I worked on a scalable biological filter that would harness the power of local biota to clean the seawater of local communities - and <b>we won the 2<sup>nd</sup> prize</b> in our Mission Arena which was very challenging as the competition was fierce. There I got to learn how startups work, which funding opportunities are available in Europe, and how big our ideas need to be to make the actual changes in the world that we need. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+In the future I plan to educate myself further in handling <big>big data</big> to succefully <b>employ microbes in solving local & global challenges</b> (biodiversity loss, ocean pollution, sustainable food production, health threats).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/talenton1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/talenton2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    "The Bluemers" at the EU TalentOn competition, tired but happy.
 </div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
