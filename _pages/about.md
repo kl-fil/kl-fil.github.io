@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Under construction
+subtitle: Welcome to my personal website!
 
 profile:
   align: right
