@@ -14,4 +14,6 @@ I have taught 3 undergrad courses and 1 graduate course from 2019 to 2022 at the
 - 2019-2022 - Microbial Ecology; laboratory exercises (on-site & remote)
 - 2019 - Histology and Histochemistry, Histology and embryology; laboratory exercises (on-site)
  
- Besides my official duties as university staff, I helped Biology Students Association members in forming their own research proposals, and reviewed sci-pop articles for their magazine *In Vivo*.
+Besides my official duties as university staff, I helped Biology Students Association members in forming their own research proposals, and reviewed sci-pop articles for their magazine *In Vivo*.
+
+In academic year 2022/2023 I was listed as 2nd best teaching assistant (based on a student survey on 166 professors and teaching assistants across 85 courses). The ranking was based on 1-5 points grading system and anonymized student feedback. My students seem to love the diversity of tools and approaches I would use to improve teaching, the clarity of expectations, and the general "vibe" during exercises.
