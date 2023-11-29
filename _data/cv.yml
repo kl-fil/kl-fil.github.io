@@ -30,6 +30,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research and Data Analysis Intern
+      institution: Chr. Hansen, Denmark
+      year: 2023
+      description:
+        - Consulted on and analysed ONT microbiome data in an interdisciplinary team
+    
     - title: Research Assistant
       institution: University of Zagreb, Bosak lab, Croatia
       year: 2018 - 2023
