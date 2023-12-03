@@ -7,7 +7,7 @@ importance: 3
 category: work
 ---
 
-During my PhD studies I had many opportunities to introduce turtle-associated microbes to diverse scientific minds. Here you can find the posters, slides and photos connected to some of the events.
+During my PhD studies, I had many opportunities to introduce turtle-associated microbes to diverse scientific minds. Here you can find the posters, slides, and photos connected to some of the events.
 
 <h3>18th International Symposium on Microbial Ecology (ISME18)</h3>
 August 2022 - this symposium was held in Lausanne, Switzerland with more than 2000 attendees.
@@ -32,7 +32,7 @@ June 2022 - FEMS Conference on Microbiology was held in Belgrade, Serbia and I g
 </div>
 
 <h3>7th Croatian Crongress of Microbiology</h3>
-May 2022 - 7th Croatian Crongress of Microbiology was held in Sv. Martin na Muri, Croatia. I presented more about [bacterial communities associated with loggerheads](https://www.researchgate.net/publication/360783159_Microbiota_of_marine_reptiles_it_is_about_more_than_just_the_gastrointestinal_tract).
+May 2022 - 7th Croatian Congress of Microbiology was held in Sv. Martin na Muri, Croatia. I presented more about [bacterial communities associated with loggerheads](https://www.researchgate.net/publication/360783159_Microbiota_of_marine_reptiles_it_is_about_more_than_just_the_gastrointestinal_tract).
 
 <h3>9th Conference of Mikrobiokosmos</h3>
 2021 December - 9th Conference of Mikrobiokosmos was held in Athens, Greece, I gave a [talk on endozoic bacterial communities in oral cavities and cloaca](https://www.researchgate.net/publication/357179700_Loggerhead_sea_turtles_Caretta_caretta_and_their_microbes_characterizing_oral_and_cloacal_microbial_communities) of loggerhead sea turtles.
@@ -50,10 +50,10 @@ May 2022 - 7th Croatian Crongress of Microbiology was held in Sv. Martin na Muri
 </div>
 
 <h3>Online International Diatom Symposium</h3>
-2021 August - International Diatom Symposium was supposed to be held in Yamagata, Japan but alas the pandemic has stricken. Here I presented a poster on [diatom co-cultivation](https://www.researchgate.net/publication/358277715_Loggerhead_sea_turtle-associated_epizoic_vs_non-epizoic_diatoms_isolation_identification_and_co-cultivation_experiments) (as at MLD6) but here I won a 1st prize for my work..
+2021 August - The International Diatom Symposium was supposed to be held in Yamagata, Japan but alas the pandemic has stricken. Here I presented a poster on [diatom co-cultivation](https://www.researchgate.net/publication/358277715_Loggerhead_sea_turtle-associated_epizoic_vs_non-epizoic_diatoms_isolation_identification_and_co-cultivation_experiments) (as at MLD6) but here I won a 1st prize for my work..
 
 <h3>The Molecular Life of Diatoms 6 (MLD6)</h3>
-2021 July - This meeting was held online due to pandemics and I presented first results on diatom co-cultivation experiments performed in Ghent, Belgium.
+2021 July - This meeting was held online due to pandemics and I presented the first results on diatom co-cultivation experiments performed in Ghent, Belgium.
 
 <h3>World Microbe Forum</h3>
 2021 June - World Microbe Forum was one of the largest online meetings I attended. Here I presented a poster on [microbial communities of diatom cultures](https://www.researchgate.net/publication/352933380_From_Sea_Turtle_Associated_Microbial_Biofilms_to_Diatom_Cultures_A_Bacterial_Perspective), the preliminary work done in Ghent, Belgium.
