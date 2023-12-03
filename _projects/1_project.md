@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-During my time at <b>[TurtleBIOME](https://www.turtlebiome.biol.pmf.hr/)</b> I worked on elucidating the <b>structure and comosition of microbial communities of loggerheads</b>. Loggerhead sea turtles are one of the seven extant sea turtle species and are considered <b>vulnerable</b> by the IUCN. They are <b>threatened by human activity</b> (tourism, fishing, pollution), <b>climate change, and pathogenic microorganisms</b> (<i>Fusarium</i> sp., viral infections, etc.).
+During my time at <b>[TurtleBIOME](https://www.turtlebiome.biol.pmf.hr/)</b> I worked on elucidating the <b>structure and composition of microbial communities of loggerheads</b>. Loggerhead sea turtles are one of the seven extant sea turtle species and are considered <b>vulnerable</b> by the IUCN. They are <b>threatened by human activity</b> (tourism, fishing, pollution), <b>climate change, and pathogenic microorganisms</b> (<i>Fusarium</i> sp., viral infections, etc.).
 
 First reports on sea turtle/loggerhead microbiomes in the gut were from [Abdelrhman <i>et al.</i> in 2016](https://www.frontiersin.org/articles/10.3389/fmicb.2016.01060/full). Since then many of the groups around the world started investigating the microbiomes of loggerheads and other sea turtle species to <b>improve the conservation efforts</b> and understand the microbial impact on the sea turtle host.
 
