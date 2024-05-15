@@ -1,10 +1,10 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Klara Filek
-    - name: Date of Birth
-      value: 16th Nov 1992
+    - name: Hunting microbes since
+      value: 1992
     - name: Languages
       value: Croatian, English
 
@@ -15,21 +15,30 @@
       institution: University of Zagreb, Zagreb, Croatia
       year: 2022
       description:
+        - Supervisor - Assoc. Prof. Sunčica Bosak, PhD
         - Thesis -  Diversity of diatom and bacterial communities associated with loggerhead sea turtles (<i>Caretta caretta</i>)
     - title: Master of Science
       institution: Uppsala University, Uppsala, Sweden
       year: 2018
       description:
+        - Supervisor - Assoc. Prof. Sanna Koskiniemi, PhD and Marcus Wäneskog, PhD
         - Thesis - Contact-dependent growth inhibition in <i>Escherichia coli</i> EC93
     - title: Bachelor of Science
       institution: University of Zagreb, Zagreb, Croatia
       year: 2015
       description:
+        - Supervisor - Univ. Prof. Nada Oršolić, PhD
         - Thesis - Connection between inflammation and depression
 
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: Medical University of Graz, Austria
+      year: 2024 - now
+      description:
+        - High-throughput cultivation of targeted microbial taxa and identification of their probiotic potential
+        
     - title: Research and Data Analysis Intern
       institution: Chr. Hansen, Denmark
       year: 2023
