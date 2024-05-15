@@ -6,7 +6,39 @@
     - name: Hunting microbes since
       value: 1992
     - name: Languages
-      value: Croatian, English
+      value: Croatian (native), English (C2)
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: Medical University of Graz, Austria (Diener, Moissl-Eichinger, Gorkiewicz labs)
+      year: 2024 - now
+      description:
+        - High-throughput cultivation of targeted microbial taxa and identification of their probiotic potential
+    - title: Research and Data Analysis Intern
+      institution: Chr. Hansen, Denmark
+      year: 2023
+      description:
+        - Consulted on and analysed ONT microbiome data in an interdisciplinary team
+    - title: Research Assistant
+      institution: University of Zagreb, Croatia (Bosak lab)
+      year: 2018 - 2023
+      description:
+        - Analyzed microbial communities of sea turtles
+        - Taught undergraduate courses and mentored master students
+        - Obtained funds for research training
+        - Communicated research (scientific articles and general public)
+    - title: Master student researcher
+      institution: Uppsala University, Koskiniemi lab, Sweden
+      year: 2017-2018
+      description:
+        - Molecular cloning and competition experiments with <i>E. coli</i>
+    - title: Team lead
+      institution: Biology Students Association, Zagreb
+      year: 2014-2015
+      description:
+        - Microbiology section
 
 - title: Education
   type: time_table
@@ -29,42 +61,6 @@
       description:
         - Supervisor - Univ. Prof. Nada Oršolić, PhD
         - Thesis - Connection between inflammation and depression
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Researcher
-      institution: Medical University of Graz, Austria (Diener, Moissl-Eichinger, Gorkiewicz labs)
-      year: 2024 - now
-      description:
-        - High-throughput cultivation of targeted microbial taxa and identification of their probiotic potential
-        
-    - title: Research and Data Analysis Intern
-      institution: Chr. Hansen, Denmark
-      year: 2023
-      description:
-        - Consulted on and analysed ONT microbiome data in an interdisciplinary team
-    
-    - title: Research Assistant
-      institution: University of Zagreb, Croatia (Bosak lab)
-      year: 2018 - 2023
-      description:
-        - Analyzed microbial communities of sea turtles
-        - Taught undergraduate courses and mentored master students
-        - Obtained funds for research training
-        - Communicated research (scientific articles and general public)
-    
-    - title: Master student researcher
-      institution: Uppsala University, Koskiniemi lab, Sweden
-      year: 2017-2018
-      description:
-        - Molecular cloning and competition experiments with <i>E. coli</i>
-
-    - title: Team lead
-      institution: Biology Students Association, Zagreb
-      year: 2014-2015
-      description:
-        - Microbiology section
 
 - title: Honors and Awards
   type: time_table
